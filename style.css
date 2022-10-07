@@ -1,0 +1,11 @@
+body {
+	font: Arial;
+}
+
+p {
+	text-align: center;
+}
+
+.bar{
+	fill: yellowgreen;
+}
